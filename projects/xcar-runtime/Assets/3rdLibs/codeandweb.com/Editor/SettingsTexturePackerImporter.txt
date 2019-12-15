@@ -1,0 +1,39 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Res/Atlas/Common.tpsheet
+- Assets/Res/Atlas/Family.tpsheet
+- Assets/Res/Atlas/Font_GreenOutline.tpsheet
+- Assets/Res/Atlas/Font_RedDark.tpsheet
+- Assets/Res/Atlas/Font_RedSmall.tpsheet
+- Assets/Res/Atlas/Icon.tpsheet
+- Assets/Res/Atlas/IconFamily.tpsheet
+- Assets/Res/Atlas/Level.tpsheet
+- Assets/Res/Atlas/Main.tpsheet
+- Assets/Res/Atlas/Ranking.tpsheet
+- Assets/Res/Atlas/Shop.tpsheet
+textureFileNames:
+- Assets/Res/Atlas/Common.png
+- Assets/Res/Atlas/Family.png
+- Assets/Res/Atlas/Font_GreenOutline.png
+- Assets/Res/Atlas/Font_RedDark.png
+- Assets/Res/Atlas/Font_RedSmall.png
+- Assets/Res/Atlas/Icon.png
+- Assets/Res/Atlas/IconFamily.png
+- Assets/Res/Atlas/Level.png
+- Assets/Res/Atlas/Main.png
+- Assets/Res/Atlas/Ranking.png
+- Assets/Res/Atlas/Shop.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
